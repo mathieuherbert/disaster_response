@@ -5,5 +5,5 @@ earthquake disaster response
 
 
 authors :
-	Reza Hassanzadeh
+	Reza Hassanzadeh,
     Mathieu Herbert
